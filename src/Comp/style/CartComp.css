@@ -1,0 +1,38 @@
+.quantity-btn{
+    border: none;
+    background-color: #A1C349;
+    border-radius: 5px;
+}
+.quantity-btn:active{
+   opacity: -0.2;
+}
+#card-w{
+    box-shadow:   0 .125rem .25rem  rgb(175, 175, 175); 
+}
+#card-w:hover{
+    box-shadow:  0 .2rem 0.500rem  rgb(45, 45, 44);
+}
+
+.inc-btn{
+    background-color: green;
+}
+
+.dec-btn{
+    background-color: red;
+}
+
+.card{
+    background-color: #262B40;
+    color: #fff;
+}
+
+nav{
+    margin: 20px;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.txt-size{
+    font-size: 40px;
+}
