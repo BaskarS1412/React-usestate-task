@@ -1,4 +1,4 @@
-# Context API Task
+# UseContext API Task
 
 This is a simple web application for a mobile store. It allows users to manage their shopping cart. The application utilizes React's Context API to manage global state across components.
 
